@@ -1,0 +1,29 @@
+body {
+	background-color: purple;
+	margin: 0px;
+}
+
+header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: ghostwhite;
+}
+
+.left-header {
+	padding-left: 30px;
+	color: purple;
+}
+nav a {
+	text-decoration: none;
+	padding-right: 30px;
+}
+
+.hero {
+	color: whitesmoke;
+	padding-top: 200px;
+	padding-bottom: 200px;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
